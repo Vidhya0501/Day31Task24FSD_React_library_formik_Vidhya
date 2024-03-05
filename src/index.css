@@ -1,0 +1,11 @@
+.homepage {
+  position: relative;
+  text-align: center;
+}
+
+.head {
+  color: brown;
+  position: absolute;
+  top: 120px;
+  right: 96px;
+}
